@@ -1,4 +1,4 @@
-# di-one-workspace-sarter
+# di-one-workspace-starter template
 Title 
 This repo is for ... <br/>
 
